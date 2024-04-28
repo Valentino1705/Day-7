@@ -34,7 +34,7 @@ const testimonial1  = new AuthorTestimonial (
 
 const testimonial2  = new AuthorTestimonial (
   "https://images.pexels.com/photos/733500/pexels-photo-733500.jpeg?auto=compress&cs=tinysrgb&w=800",
-  "Mikirin apa bro",
+  "Mikirin apa bro mantap",
   "Satrio Budi"
 );
 
